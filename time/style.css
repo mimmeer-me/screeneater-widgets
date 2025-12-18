@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+body, html {
+  margin: 0;
+  height: 100%;
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  color: #ffffffdf;
+}
+
+h1,h2,h3 {
+  font-weight: 550;
+}
+
+#lockscreen-d623544d {
+  font-size: 128pt;
+  text-align: center;
+  justify-content: center;
+  height: 100%;
+}
